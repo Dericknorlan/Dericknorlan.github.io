@@ -39,7 +39,7 @@ Data: 2, 4, 8
 Jumlah data (n) = 3
 x̄ᵍ = 2 x 4 x 8 = 64
 x̄ᵍ = Akar pangkat 3 dari 64 
-x̄ᵍ = 64
+x̄ᵍ = 4
 ```
 
 ### c. Rata-Rata Harmonik

@@ -1,13 +1,13 @@
 ---
 title: "Introduciton to Descriptive Statistics."
-date: 2025-04-08 00:00:00 +0000
-categories: [Statistics and Probability]
-tags: []
+date: 2025-03-27 00:00:00 +0000
+categories: [Statistics]
+tags: [Data Analysis, Descriptive Statistics]
 ---
 
 # Statistika: Rata-Rata, Variansi, dan Standar Deviasi
 
-Statistika adalah ilmu yang mempelajari cara mengumpulkan, menganalisis, menginterpretasikan, dan menyajikan data. Dalam statistika, terdapat beberapa konsep dasar yang sering digunakan, seperti rata-rata, variansi, dan standar deviasi. Berikut penjelasan lengkapnya:
+**Statistika** adalah ilmu yang mempelajari cara mengumpulkan, menganalisis, menginterpretasikan, dan menyajikan data. Dalam statistika, terdapat beberapa konsep dasar yang sering digunakan, seperti **rata-rata**, **variansi**, dan s**tandar deviasi**. Berikut penjelasan lengkapnya:
 
 ## 1. Rata-Rata (Mean)
  **Rata-rata** adalah nilai yang mewakili pusat dari suatu kumpulan data. Terdapat tiga jenis rata-rata yang umum digunakan, yaitu **rata-rata aritmetika, rata-rata geometri,** dan **rata-rata harmonik.**

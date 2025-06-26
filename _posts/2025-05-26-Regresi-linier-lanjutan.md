@@ -4,6 +4,9 @@ date: 2025-05-26 10:00:00 +0800
 categories: [Statistika, Regresi]
 tags: [regresi multipel, uji t, uji F, anova regresi, variabel dummy, koefisien determinasi, r-squared]
 math: true
+image:
+  path: /assets/img/regresi.jpg
+  alt: Regresi Linier Multipel
 ---
 
 Setelah memahami dasar-dasar regresi linier sederhana dan cara mengestimasi parameternya, kita akan melanjutkan ke topik yang lebih lanjut, termasuk inferensi statistik, perluasan ke model dengan lebih dari satu prediktor (regresi multipel), dan bagaimana menangani variabel prediktor kategorikal.

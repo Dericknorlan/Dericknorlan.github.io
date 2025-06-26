@@ -4,9 +4,6 @@ date: 2025-05-22 10:00:00 +0800
 categories: [Statistika, Dasar]
 tags: [hipotesis, statistika inferensial, populasi, sampel, uji statistik]
 math: true
-image:
-  path: /assets/img/ujihipotesis.png 
-  alt: Pengantar Pengujian Hipotesis
 ---
 
 Pengujian hipotesis adalah jantung dari statistika inferensial, memungkinkan kita membuat kesimpulan tentang populasi berdasarkan data sampel. Mari kita pahami konsep-konsep dasarnya.

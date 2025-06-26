@@ -4,9 +4,6 @@ date: 2025-05-23 11:00:00 +0800
 categories: [Statistika, Dasar]
 tags: [hipotesis, one-tailed, two-tailed, t-test, z-test, p-value, excel]
 math: true
-image:
-  path: /assets/img/12tailed.png
-  alt: Perbandingan Uji Satu Arah dan Dua Arah
 ---
 
 Setelah memahami dasar-dasar pengujian hipotesis, penting untuk membedakan antara uji satu arah (one-tailed) dan uji dua arah (two-tailed). Pilihan ini bergantung pada bagaimana hipotesis alternatif ($$H_1$$) dirumuskan.

@@ -4,9 +4,6 @@ date: 2025-05-27 09:00:00 +0800
 categories: [Statistika, Dasar]
 tags: [distribusi data, distribusi normal, histogram, boxplot, qq plot, skewness, kurtosis]
 math: true
-image:
-  path: /assets/img/distribusi.png
-  alt: Berbagai Jenis Distribusi Data
 ---
 
 Memahami bagaimana data tersebar atau terdistribusi adalah langkah fundamental dalam analisis statistik. Distribusi data memberikan wawasan tentang pola, tendensi sentral, dan variabilitas dalam dataset.

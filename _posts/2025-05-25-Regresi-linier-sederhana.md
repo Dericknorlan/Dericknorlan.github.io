@@ -4,9 +4,6 @@ date: 2025-05-25 14:00:00 +0800
 categories: [Statistika, Regresi]
 tags: [regresi linier, regresi sederhana, model probabilistik, estimasi parameter, least squares, koefisien regresi]
 math: true
-image:
-  path: /assets/img/simplelinier.png
-  alt: Regresi Linier Sederhana
 ---
 
 Regresi adalah teknik statistik yang digunakan untuk memodelkan dan menganalisis hubungan antara variabel. Secara spesifik, regresi mengeksploitasi hubungan antara satu atau lebih variabel independen (prediktor) untuk memprediksi atau menjelaskan variabel dependen (respons).
